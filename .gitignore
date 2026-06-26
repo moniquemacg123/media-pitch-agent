@@ -1,0 +1,11 @@
+# Generated pitch output
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets — never commit API keys
+.env

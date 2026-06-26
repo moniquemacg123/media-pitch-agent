@@ -1,0 +1,113 @@
+HARO - HELP A REPORTER OUT
+Daily Digest - Morning Edition
+Date: April 7, 2026
+
+===================================
+BUSINESS & TECHNOLOGY
+===================================
+
+Query 1
+Title: Expert Sources Needed: Choosing a Database for IoT and Sensor Data
+Media Outlet: TechTarget
+Reporter: Sarah Chen
+Deadline: April 9, 2026 5:00 PM EST
+Summary: I'm writing a buyer's guide on how teams choose databases for
+high-volume IoT and sensor workloads. Looking for engineers, CTOs, or
+vendors who can speak to time series data, ingestion rates, compression,
+and retention tradeoffs. Please include company name, role, and a 2-3
+sentence summary of your experience.
+Requirements: Must have direct experience with time series or IoT data
+at scale. No PR firms please.
+
+---
+
+Query 2
+Title: Real-Time Observability at Scale: What's Actually Hard?
+Media Outlet: The New Stack
+Reporter: Marcus Johnson
+Deadline: April 10, 2026 3:00 PM EST
+Summary: Covering the engineering challenges of real-time monitoring and
+observability when telemetry arrives at millions of points per second.
+Seeking practitioners who can speak to ingestion, querying, and alerting
+on high-velocity operational data.
+Requirements: Vendors or practitioners with hands-on experience preferred.
+
+---
+
+Query 3
+Title: Predictive Maintenance on the Factory Floor: Expert Commentary
+Media Outlet: IoT World Today
+Reporter: Priya Patel
+Deadline: April 8, 2026 12:00 PM EST
+Summary: Working on a piece about how manufacturers use sensor data and
+analytics to predict equipment failures before they happen. Interested
+in perspectives on the data infrastructure behind industrial IoT and
+predictive maintenance.
+Requirements: Must have manufacturing or IIoT experience.
+
+---
+
+Query 4
+Title: What Is "Physical AI" and Why Does It Need Real-Time Data?
+Media Outlet: Forbes
+Reporter: Amanda Willis
+Deadline: April 11, 2026 6:00 PM EST
+Summary: Writing a Forbes piece on the rise of "physical AI" — AI systems
+that act on the real world (robots, vehicles, drones, smart grids) and the
+real-time data foundations they depend on. Looking for technologists who
+can explain the data side of physical AI.
+Requirements: Open to vendors, CTOs, and researchers. Please include your
+title and organization.
+
+---
+
+Query 5
+Title: Small Business Marketing Trends for 2026
+Media Outlet: Inc. Magazine
+Reporter: Jennifer Torres
+Deadline: April 10, 2026 2:00 PM EST
+Summary: Rounding up expert tips on marketing strategies small businesses
+should prioritize in 2026. Looking for actionable advice on digital
+marketing, social media, and customer acquisition.
+Requirements: Marketing consultants, agency owners, or CMOs welcome.
+
+---
+
+Query 6
+Title: Managing High-Velocity Sensor Data in the Data Center
+Media Outlet: Data Center Knowledge
+Reporter: Kevin Marsh
+Deadline: April 9, 2026 4:00 PM EST
+Summary: Exploring how operators handle the flood of telemetry coming from
+modern infrastructure and IoT fleets — storage, compression, and querying
+of time-stamped data at scale.
+Requirements: Infrastructure architects or vendors with real deployment
+experience preferred.
+
+---
+
+Query 7
+Title: Open Source Databases in the Enterprise: Adoption and Tradeoffs
+Media Outlet: CIO Dive
+Reporter: Lisa Park
+Deadline: April 12, 2026 1:00 PM EST
+Summary: Looking for CIOs, architects, or vendors who can speak to how and
+why enterprises adopt open source databases, and how they evaluate them
+against commercial options.
+Requirements: Must have enterprise database experience.
+
+---
+
+Query 8
+Title: Restaurant Industry Tech Adoption in 2026
+Media Outlet: Nation's Restaurant News
+Reporter: David Park
+Deadline: April 11, 2026 1:00 PM EST
+Summary: Looking for restaurant operators or tech vendors who can speak to
+how technology is transforming restaurant operations, from POS systems to
+kitchen automation.
+Requirements: Must have direct restaurant industry experience.
+
+===================================
+END OF DIGEST
+===================================

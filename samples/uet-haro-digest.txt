@@ -1,0 +1,119 @@
+HARO - HELP A REPORTER OUT
+Daily Digest - Morning Edition
+Date: April 7, 2026
+
+===================================
+BUSINESS & TECHNOLOGY
+===================================
+
+Query 1
+Title: Expert Sources Needed: The Future of Edge Computing in Enterprise
+Media Outlet: TechRepublic
+Reporter: Sarah Chen
+Deadline: April 9, 2026 5:00 PM EST
+Summary: I'm writing a feature on how enterprises are adopting edge
+computing to reduce latency and improve data sovereignty. Looking for
+vendors, CTOs, or infrastructure experts who can speak to real-world
+deployments, challenges, and ROI. Please include company name, role,
+and a 2-3 sentence summary of your experience.
+Requirements: Must have direct experience deploying edge compute
+solutions at scale. No PR firms please.
+
+---
+
+Query 2
+Title: Sources Needed: AI Infrastructure Challenges at the Edge
+Media Outlet: VentureBeat
+Reporter: Marcus Johnson
+Deadline: April 10, 2026 3:00 PM EST
+Summary: Covering the growing demand for AI processing at the edge —
+away from centralized cloud data centers. Seeking experts who can
+speak to the technical and operational challenges of running AI
+workloads in remote or bandwidth-constrained environments.
+Requirements: Vendors or practitioners with hands-on experience
+preferred. Will consider analysts.
+
+---
+
+Query 3
+Title: Defense Technology Modernization: Expert Commentary Needed
+Media Outlet: Defense One
+Reporter: Lt. Col. (Ret.) David Park
+Deadline: April 8, 2026 12:00 PM EST
+Summary: Working on a piece about how the DoD and defense contractors
+are modernizing field computing infrastructure for contested
+environments. Interested in perspectives on modular, deployable
+compute solutions that meet SWAP-C requirements.
+Requirements: Must have defense industry experience or direct knowledge
+of military computing requirements. Security clearance not required
+but familiarity with defense procurement preferred.
+
+---
+
+Query 4
+Title: How Are Companies Handling Data Sovereignty in 2026?
+Media Outlet: Forbes
+Reporter: Amanda Willis
+Deadline: April 11, 2026 6:00 PM EST
+Summary: Writing a Forbes piece on how enterprises and governments
+are approaching data sovereignty — keeping sensitive data within
+geographic or organizational boundaries. Looking for real examples
+of technology solutions being deployed to address this challenge.
+Requirements: Open to vendors, CISOs, legal experts, and policy
+professionals. Please include your title and organization.
+
+---
+
+Query 5
+Title: Small Business Marketing Trends for 2026
+Media Outlet: Inc. Magazine
+Reporter: Jennifer Torres
+Deadline: April 10, 2026 2:00 PM EST
+Summary: Rounding up expert tips on marketing strategies small
+businesses should prioritize in 2026. Looking for actionable advice
+on digital marketing, social media, and customer acquisition.
+Requirements: Marketing consultants, agency owners, or CMOs welcome.
+
+---
+
+Query 6
+Title: The Rise of Distributed Computing: Expert Perspectives
+Media Outlet: Wired
+Reporter: Priya Patel
+Deadline: April 12, 2026 5:00 PM EST
+Summary: Exploring how distributed and decentralized computing
+architectures are reshaping IT infrastructure. Interested in
+perspectives on edge vs. cloud tradeoffs, latency-sensitive
+applications, and the future of data center design.
+Requirements: Technical experts, infrastructure architects, or
+vendors with real deployment experience preferred.
+
+---
+
+Query 7
+Title: Cybersecurity in Remote and Disconnected Environments
+Media Outlet: Dark Reading
+Reporter: Kevin Marsh
+Deadline: April 9, 2026 4:00 PM EST
+Summary: Covering the unique cybersecurity challenges of securing
+compute infrastructure in remote, austere, or disconnected
+environments — including military forward operating bases, offshore
+platforms, and disaster response scenarios.
+Requirements: Security practitioners or vendors with relevant
+experience. Please describe a specific use case or deployment.
+
+---
+
+Query 8
+Title: Restaurant Industry Tech Adoption in 2026
+Media Outlet: Nation's Restaurant News
+Reporter: Lisa Park
+Deadline: April 11, 2026 1:00 PM EST
+Summary: Looking for restaurant operators or tech vendors who can
+speak to how technology is transforming restaurant operations,
+from POS systems to kitchen automation.
+Requirements: Must have direct restaurant industry experience.
+
+===================================
+END OF DIGEST
+===================================
