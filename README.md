@@ -1,7 +1,7 @@
 # Media Pitch Agent
 
 An AI agent that turns daily **HARO (Help a Reporter Out)** journalist-query
-digests into ready-to-send media pitches — automatically scored for relevance
+digests into ready-to-send media pitches, automatically scored for relevance
 and drafted in each client's voice.
 
 Built with the Anthropic API (Claude). One generic engine serves any number of
@@ -24,14 +24,14 @@ For a given HARO digest, the agent:
    bar, and which pitches to send
 
 This filters out the noise (a typical digest has dozens of queries, most
-irrelevant) so the user only reviews and sends the handful worth pitching —
-classic human-in-the-loop.
+irrelevant) so the user only reviews and sends the handful worth pitching.
+Classic human-in-the-loop.
 
 ## How it's structured
 
 ```
 media-pitch-agent/
-├── media_pitch_agent.py      # the engine — client-agnostic
+├── media_pitch_agent.py      # the engine (client-agnostic)
 ├── prompt/base.md            # shared instructions: role, scoring, output format
 ├── profiles/                 # one file per client
 │   ├── uet.md                #   Universal Edge Technologies
@@ -41,7 +41,7 @@ media-pitch-agent/
 ```
 
 The system prompt sent to Claude is **`base.md` + the chosen profile**. The
-engine never hard-codes a company — all client specifics (positioning, scoring
+engine never hard-codes a company. All client specifics (positioning, scoring
 tiers, tone, differentiation) live in the profile, which is why adding a new
 client is just one new `profiles/<name>.md` file.
 
@@ -68,4 +68,4 @@ Output streams to the terminal and is saved to `outputs/<profile>_pitches_<times
 
 - The API key is read from the `ANTHROPIC_API_KEY` environment variable and is
   never stored in the repo.
-- Pitches are **drafts for human review** — the agent recommends; a person sends.
+- Pitches are **drafts for human review**. The agent recommends; a person sends.
