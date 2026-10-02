@@ -8,6 +8,10 @@ Built with the Anthropic API (Claude). One generic engine serves any number of
 clients: each client is a single profile file, so onboarding a new company takes
 minutes, not a rewrite.
 
+> **Note:** The UET and InfluxData profiles are illustrative examples built
+> entirely from public information. They do not represent real client engagements
+> or any confidential data.
+
 ## What it does
 
 For a given HARO digest, the agent:
